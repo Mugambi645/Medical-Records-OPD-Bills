@@ -31,11 +31,11 @@ Treatement: Cervical and Abdominal Lymph Node Tuberclosis
 
 # Bills
 
-![](https://raw.githubusercontent.com/Medical-Records-OPD-Bills/Bills%20(1).jpg)
-![](https://raw.githubusercontent.com/Medical-Records-OPD-Bills/Bills%20(2).jpg)
-![](https://raw.githubusercontent.com/Medical-Records-OPD-Bills/Bills%20(3).jpg)
-![](https://raw.githubusercontent.com/Medical-Records-OPD-Bills/Bills%20(4).jpg)
-![](https://raw.githubusercontent.com/Medical-Records-OPD-Bills/Bills%20(5).jpg)
+![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/Bills%20(1).jpg)
+![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/Bills%20(2).jpg)
+![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/Bills%20(3).jpg)
+![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/Bills%20(4).jpg)
+![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/Bills%20(5).jpg)
 ![](https://raw.githubusercontent.com/Medical-Records-OPD-Bills/Bills%20(6).jpg)
 ![](https://raw.githubusercontent.com/Medical-Records-OPD-Bills/Bills%20(7).jpg)
 ![](https://raw.githubusercontent.com/Medical-Records-OPD-Bills/Bills%20(8).jpg)
