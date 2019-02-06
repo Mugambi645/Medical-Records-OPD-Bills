@@ -38,7 +38,17 @@ Treatement: Cervical and Abdominal Lymph Node Tuberclosis
 ![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/REGENCY FROM 10 NOV/Blood Test No 1 (2).jpg)
 ![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/REGENCY FROM 10 NOV/Blood Test No 1 (3).jpg)
 ![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/REGENCY FROM 10 NOV/Blood Test No 1 (4).jpg)
-
+![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/REGENCY FROM 10 NOV/Blood Test No 2 (1).jpg)
+![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/REGENCY FROM 10 NOV/Blood Test No 2 (2).jpg)
+![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/REGENCY FROM 10 NOV/Blood Test No 3 (1).jpg)
+![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/REGENCY FROM 10 NOV/Blood Test No 3 (2).jpg)
+![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/REGENCY FROM 10 NOV/Blood Test No 3 (3).jpg)
+![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/REGENCY FROM 10 NOV/Blood Test No 4 (1).jpg)
+![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/REGENCY FROM 10 NOV/Blood Test No 5.jpg)
+![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/REGENCY FROM 10 NOV/Blood Test No 6 (1).jpg)
+![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/REGENCY FROM 10 NOV/Blood Test No 6 (2).jpg)
+![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/REGENCY FROM 10 NOV/Blood Test No 6 (3).jpg)
+![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/REGENCY FROM 10 NOV/Blood Test No 7.jpg)
 # Bills
 
 ![](https://raw.githubusercontent.com/prateekrajgautam/Medical-Records-OPD-Bills/REGENCY FROM 10 NOV/Bills%20(1).jpg)
