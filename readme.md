@@ -2,7 +2,9 @@
 Dr. Name: Mayank Mehrotra
 Hospital: Regency (Tower2) Sarvoday Nagar Kanpur.
 Treatement: Cervical and Abdominal Lymph Node Tuberclosis
+##  Generated from readme.md
 
+---
 
 
 ---
